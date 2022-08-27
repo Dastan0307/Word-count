@@ -1,0 +1,50 @@
+@media all and (max-width: 750px) {
+    .text {
+        width: 300%;
+        font-size: 12px;
+    }
+}
+
+@media all and (max-width: 640px) {
+    .text {
+        width: 260%;
+        font-size: 11px;
+    }
+}
+
+@media all and (max-width: 550px) {
+    .text {
+        width: 230%;
+        font-size: 10px;
+    }
+}
+
+@media all and (max-width: 470px) {
+    .text {
+        width: 190%;
+        margin: -1rem;
+        font-size: 10px;
+    }
+}
+
+@media all and (max-width: 400px) {
+    .text {
+        width: 155%;
+        font-size: 10px;
+    }
+}
+
+@media all and (max-width: 345px) {
+    .text {
+        width: 135%;
+        font-size: 10px;
+    }
+}
+
+@media all and (max-width: 300px) {
+    .text {
+        width: 120%;
+        font-size: 9px;
+    }
+}
+
